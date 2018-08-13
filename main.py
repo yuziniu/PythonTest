@@ -8,7 +8,11 @@ print("third print")
 print("four print")
 print("five print")
 print("sex print")
+<<<<<<< HEAD
 pic = imageio.imread('2.png')
+=======
+pic = imageio.imread('d:/2.png')
+>>>>>>> 2eb070a3b35091ea66b37c0b6458f53c85b2f9b7
 plt.figure(figsize=(15,15))
 print('value of Only R channel{}'.format(pic[100,50,0]))
 print('value of Only G channel{}'.format(pic[100,50,1]))
