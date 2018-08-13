@@ -8,7 +8,7 @@ print("third print")
 print("four print")
 print("five print")
 print("sex print")
-
+print("seven print")
 pic = imageio.imread('2.png')
 
 plt.figure(figsize=(15,15))
