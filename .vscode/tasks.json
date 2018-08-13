@@ -8,7 +8,7 @@
             "command": "python",
             "type": "shell",
             "args": [
-                "main.py"
+                "${file}"
             ],
             "options": {
                 "env": {
